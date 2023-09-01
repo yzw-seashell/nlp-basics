@@ -1,0 +1,6 @@
+Hello, this is a quick test file.
+This is the second line of the file.
+There is a Shiba in the third line.
+
+This line is being appended to shiba_test.txt
+And another line with a new Shiba here.
